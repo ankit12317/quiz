@@ -1,2 +1,0 @@
-# quiz
-my small work
